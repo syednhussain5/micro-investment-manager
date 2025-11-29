@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+.cache/
+.streamlit/
+.m2/
+.matplotlib/
+.openjfx/
+.jdks/
+.codearena_sessions.json
+
+# Data (optional - uncomment if you don't want to track data files)
+# data/processed/
+# models/*.pkl
+
