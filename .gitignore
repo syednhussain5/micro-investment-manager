@@ -32,7 +32,8 @@ Thumbs.db
 .jdks/
 .codearena_sessions.json
 
-# Data (optional - uncomment if you don't want to track data files)
-# data/processed/
-# models/*.pkl
+# Data files (large files excluded from git)
+data/raw/transactions.csv
+data/processed/
+*.pkl
 
